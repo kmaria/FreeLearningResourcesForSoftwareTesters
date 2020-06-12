@@ -9,38 +9,39 @@ The rules wished to implement -
 2. Content must be informative and not overly "salesy"
 3. Content must be free of charge
 
+Started by @PaulWaltersDev. My revised version.
+
 
 ## Introduction to Testing
 
+* [Creating Yourself as a Tester Make Your Own Testing Path](https://www.youtube.com/watch?v=bj8isCPgYjg)
+
+* [Software Testing Explained](https://www.youtube.com/watch?v=i5JFcwi-iWI)
+
 * [Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU)
+
+* [ISTQB Foundation Level Syllabus](https://www.istqb.org/downloads/send/2-foundation-level-documents/281-istqb-ctfl-syllabus-2018-v3-1.html)
 
 * [Agile Software Testing with James Bach](https://www.youtube.com/watch?v=SAhJf36_u5U)
 
 * [Black Box Software Testing (BBST)](http://www.testingeducation.org/BBST/)
-
   * [Foundations](http://www.testingeducation.org/BBST/foundations/)
 
-  * [Bug Advocacy](http://www.testingeducation.org/BBST/bugadvocacy/)
-
-  * [Test Design](http://www.testingeducation.org/BBST/bugadvocacy/)
-
-  * [Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
-
 * [Create Your Tester Portfolio, Issi Hazan & Shmuel Gershon](http://testing.gershon.info/wp-content/uploads/create_your_tester_portfolio_1-1.pdf)
-
-* [How to get started in Software Testing, Tim Elbe, Adventures in QA](https://www.bloglovin.com/blogs/adventures-in-qa-13969727/how-to-get-started-in-software-testing-part-5592223723)
+   Crowdsource Testing
+   * [uTest](https://www.utest.com/)
+   * [Global App Testing](https://testers.testerwork.com/tester-account/sign-up)
+   * [test.io](https://test.io/become-a-tester/)
 
 * [Four Hour Tester, Joep Schuurkes and Helena Jeret-Mae](http://www.fourhourtester.net/)
 
 * [Whiteboard Testing Videos](https://www.youtube.com/channel/UC0QZWhi0ojqNte3ey7RD0qQ/videos)
 
-## The Testing Mindset (with some Logic and Philosophy)
+## The Testing Mindset
 
 * [List of Cognitive Biases, Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
 * [Propositional Logic, Kevin deLaPlante](https://www.youtube.com/watch?v=qV4htTfow-E&list=PL619166130C21EADA)
-
-* [Agile Testing Mindset and the Role of the Agile Tester, Amir Gharai, Testing Excellence](http://www.testingexcellence.com/agile-testing-mindset-tester-role-agile-team/)
 
 * [Philosophy for Beginners, Marianne Talbot, University of Oxford CCE](https://www.youtube.com/playlist?list=PLbgBhYAnXCnnzuBmY8O9RCXQZV_y7mbo6)
 
@@ -53,6 +54,8 @@ The rules wished to implement -
 * [Test Design Techniques (Videos)](https://www.youtube.com/playlist?list=PLc3SzDYhhiGWW0TzISFKqAN_ic8DnZvVc)
 
 * [Heuristic Test Strategy Model, James Bach](http://www.satisfice.com/tools/htsm.pdf)
+
+* [BBST Test Design](http://www.testingeducation.org/BBST/testdesign/)
 
 * [An Introduction to Scenario Testing (Cem Kaner)](http://www.kaner.com/pdfs/ScenarioIntroVer4.pdf)
 
@@ -76,6 +79,8 @@ The rules wished to implement -
 
 * [What is Exploratory Testing, James Bach](http://www.satisfice.com/articles/what_is_et.shtml)
 
+* [BBST Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
+
 * [Rigorous Exploratory Testing, Elizabeth Hendrickson](http://testobsessed.com/2006/04/rigorous-exploratory-testing/)
 
 * [Exploratory Testing, gov.uk Service Manual](https://www.gov.uk/service-manual/technology/exploratory-testing)
@@ -94,6 +99,31 @@ The rules wished to implement -
 
 * [Session Based Test Management, Jon Bach](http://www.satisfice.com/articles/sbtm.pdf)
 
+## Testing in Agile
+
+* [Agile Manifesto Principles](http://agilemanifesto.org/principles.html)
+
+* [Agile Testing Mindset and the Role of the Agile Tester, Amir Gharai, Testing Excellence](http://www.testingexcellence.com/agile-testing-mindset-tester-role-agile-team/)
+
+* [Foundation Level Extension Syllabus - Agile Tester] (https://www.istqb.org/downloads/send/5-foundation-level-agile-tester/41-agile-tester-extension-syllabus.html)
+
+* [Agile Testing Overview, Elizabeth Hendrickson](http://testobsessed.com/wp-content/uploads/2011/04/AgileTestingOverview.pdf)
+
+* [Agile Test Planning with the Agile Testing Quadrants, Lisa Crispin and Janet Gregory](http://lisacrispin.com/downloads/AdpTestPlanning.pdf)
+
+* [Quick Tools for Agile Testing, Lisa Crispin and Janet Gregory](http://agiletester.ca/wp-content/uploads/sites/26/2015/07/Agile-tips-final.pdf)
+
+## Test Reporting
+
+* [Bug Advocacy](http://www.testingeducation.org/BBST/bugadvocacy/)
+
+* [Test Execution Reports, SoftwareTestingHelp](http://www.softwaretestinghelp.com/test-execution-report/)
+
+* [Effective Test Status Reporting, Rex Black](http://rbcs-us.com/documents/EffectiveTestStatusReporting(Article).pdf)
+
+* [Bug Advocacy - How to Win Friends, Impress Programmers and Stomp Bugs, Cem Kaner](http://www.kaner.com/pdfs/bugadvoc.pdf)
+
+* [Defect Life Cycle: Essentials of Software Testing, Jennifer Marsh, Udemy Blog](https://blog.udemy.com/defect-life-cycle/)
 
 ## Test Automation
 
@@ -109,6 +139,8 @@ The rules wished to implement -
  
 * [Getting Started with Selenium Webdriver Pt2 (Alan Richardson, Evil Tester)](https://www.youtube.com/playlist?list=PLrM2ELpRbbu4aMGNkA_13cPUJNGA1592t)
 
+* [What's New in Selenium 4 Demo with Diego Molina](https://www.youtube.com/watch?v=2K49vEfusVI)
+
 * [Verify XPath Expression in Chrome](http://stackoverflow.com/questions/22571267/how-to-verify-an-xpath-expression-in-chrome-developers-tool-or-firefoxs-firebug/22571294#22571294)
  
 * [SoapUI Tutorials](https://www.soapui.org/tutorials.html)
@@ -123,28 +155,6 @@ The rules wished to implement -
 
 * [Webdriverio Documentation (Webdriver binding for nodejs)](http://webdriver.io/)
 
-## Test Reporting
-
-* [Test Execution Reports, SoftwareTestingHelp](http://www.softwaretestinghelp.com/test-execution-report/)
-
-* [Effective Test Status Reporting, Rex Black](http://rbcs-us.com/documents/EffectiveTestStatusReporting(Article).pdf)
-
-## Defect Lifecycle Management
-
-* [Bug Advocacy - How to Win Friends, Impress Programmers and Stomp Bugs, Cem Kaner](http://www.kaner.com/pdfs/bugadvoc.pdf)
-
-* [Defect Life Cycle: Essentials of Software Testing, Jennifer Marsh, Udemy Blog](https://blog.udemy.com/defect-life-cycle/)
-
-## Testing in Agile
-
-* [Agile Manifesto Principles](http://agilemanifesto.org/principles.html)
-
-* [Agile Testing Overview, Elizabeth Hendrickson](http://testobsessed.com/wp-content/uploads/2011/04/AgileTestingOverview.pdf)
-
-* [Agile Test Planning with the Agile Testing Quadrants, Lisa Crispin and Janet Gregory](http://lisacrispin.com/downloads/AdpTestPlanning.pdf)
-
-* [Quick Tools for Agile Testing, Lisa Crispin and Janet Gregory](http://agiletester.ca/wp-content/uploads/sites/26/2015/07/Agile-tips-final.pdf)
-
 ## Programming and Academic Computer Science
 
 * [Unix Tools, Markus Kuhn, University of Cambridge](http://www.cl.cam.ac.uk/teaching/1415/UnixTools/)
@@ -155,7 +165,7 @@ The rules wished to implement -
 
 * [Java for Testers, Alan Richardson, Evil Tester](https://www.youtube.com/playlist?list=PLrM2ELpRbbu6QVVh74SjN9nLSOutUBbLb)
 
-* [Building Dynamic Websites, David J. Malan, CS75.TV, Harvard Extension School](http://cs75.tv/2012/summer/)
+* [Test Automation Beyond Java 8 with Angie Jones](https://www.youtube.com/watch?v=fapTX6cqzys)
 
 * [Development Tutorials, NewCircle Training](https://www.youtube.com/playlist?list=PLndbWGuLoHeb1Bi_cduGvDA9MwVPfR8Lg)
 
@@ -168,6 +178,22 @@ The rules wished to implement -
 * [Introduction to Artificial Intelligence, Peter Norvig and Sebastian Thrun, Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn)
 
 * [Deep Learning, Nando de Freitas, University of Oxford](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+
+* SQL - todo
+
+## Mobile Testing
+
+* [ISTQB Foundation Level Mobile Application Testing](https://www.istqb.org/downloads/send/61-mobile-application-testing/251-mobile-application-testing-specialist-syllabus.html)
+
+### Android
+
+* [Testing Views in Isolation with Espresso](https://www.novoda.com/blog/testing-views-in-isolation-with-espresso/)
+
+* [How testing can provide you with the best documentation](https://www.novoda.com/blog/tests-are-the-best-documentation/)
+
+### iOS
+
+* [Getting started with XCUITest framework for testing iOS apps](https://www.novoda.com/blog/getting-started-with-xcuitest-framework-for-testing-ios-apps/)
 
 ## Security and Penetration Testing
 
@@ -208,20 +234,6 @@ The rules wished to implement -
 * [Kali Linux and Backtrack, JackkTutorials](https://www.youtube.com/playlist?list=PLn-akFzjAR19ka6JXJvJwUIKHGB3FeEjN)
 
 * [How not to suck at Pen Testing, Jon Strand](https://www.youtube.com/watch?v=Yo4oP2eyDtI)
-
-## Mobile Testing
-
-
-### Android
-
-* [Testing Views in Isolation with Espresso](https://www.novoda.com/blog/testing-views-in-isolation-with-espresso/)
-
-* [How testing can provide you with the best documentation](https://www.novoda.com/blog/tests-are-the-best-documentation/)
-
-### iOS
-
-* [Getting started with XCUITest framework for testing iOS apps](https://www.novoda.com/blog/getting-started-with-xcuitest-framework-for-testing-ios-apps/)
-
 
 ## Developing as a Tester
 
