@@ -80,8 +80,6 @@ It is _my_ revised and extended version.
 
 * [Test Heuristics Cheat Sheet, Elizabeth Hendrickson](http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
 
-* [Exploratory Testing, Martin Mudge](https://www.youtube.com/watch?v=0LqmI6BFySM)
-
 * [Session Based Testing, Peter Tennekes](https://vimeo.com/14761201)
 
 * [Session Based Test Management, Jon Bach](http://www.satisfice.com/articles/sbtm.pdf)
@@ -178,10 +176,6 @@ It is _my_ revised and extended version.
 
 * [OWASP Top 10 Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
 
-* [Security I, Markus Kuhn, University of Cambridge](https://www.cl.cam.ac.uk/teaching/1415/SecurityI/)
-
-* [Security II, Markus Kuhn, University of Cambridge](https://www.cl.cam.ac.uk/teaching/1415/SecurityII/)
-
 * [Understanding the OWASP Top 10, Gary Hockin](https://www.youtube.com/watch?v=qMkiZ3Ehv5M)
 
 * [Cross Site Scripting (XSS) Tutorials, Draps TV](https://www.youtube.com/watch?v=M_nIIcKTxGk&list=PL1A2CSdiySGIRec2pvDMkYNi3iRO89Zot)
@@ -190,15 +184,9 @@ It is _my_ revised and extended version.
 
 * [Metasploit for Network Security Tutorials, Bucky Roberts, the New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBmwvjJoWhM4Lg5MceSbsja)
 
-* [Learning Python Web Testing, Tutorials HG](https://www.youtube.com/playlist?list=PLv1kQu2-yDXrZqgOgO4VRGb6NFPS_1rUn)
-
 * [Web Application Pen Testing tutorials with Mutillidae, IronGeek.com](http://www.irongeek.com/i.php?page=videos%2Fweb-application-pen-testing-tutorials-with-mutillidae)
 
-* [Penetration Testing Lab Articles](https://pentestlab.blog/)
-
 * [WebGoat User and Install Guides, OWASP](https://www.owasp.org/index.php/WebGoat_User_and_Install_Guide_Table_of_Contents)
-
-* [Web Pentesting Workshop with BurpSuite and Mutillidae Pt 1, Jeremy Druin](https://www.youtube.com/watch?v=rNkR1Joz4eU)
  
 * [SQL Injection, OWASP Testing Guide](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
 
