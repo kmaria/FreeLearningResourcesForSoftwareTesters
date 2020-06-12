@@ -1,5 +1,5 @@
 # Free Learning Resources For Software Testers
-An ongoing project to create a set of links to free online learning resources for new and experienced Software Testers (Click Readme.md to view).
+An ongoing project to create a set of links to free online learning resources for new and experienced Software Testers.
 
 Since computer science and IT university departments don't invariably offer dedicated software testing modules and resources are spread among various different providers linked to different methodologies, I created this project to help guide new testers into some sort of useful curriculum and collate some existing web-based resources into lists of links.
 
@@ -28,6 +28,7 @@ Started by @PaulWaltersDev. My revised version.
   * [Foundations](http://www.testingeducation.org/BBST/foundations/)
 
 * [Create Your Tester Portfolio, Issi Hazan & Shmuel Gershon](http://testing.gershon.info/wp-content/uploads/create_your_tester_portfolio_1-1.pdf)
+   
    Crowdsource Testing
    * [uTest](https://www.utest.com/)
    * [Global App Testing](https://testers.testerwork.com/tester-account/sign-up)
