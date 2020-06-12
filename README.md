@@ -48,7 +48,7 @@ It is _my_ revised and extended version.
 
 ## Test Design and Execution
 
-* [Requirements Analysis, University of Michigan](http://groups.engin.umd.umich.edu/CIS/course.des/cis375/ppt/lec11.ppt)
+* Requirements Analysis - todo
 
 * [Test Design Techniques (Videos)](https://www.youtube.com/playlist?list=PLc3SzDYhhiGWW0TzISFKqAN_ic8DnZvVc)
 
@@ -61,18 +61,6 @@ It is _my_ revised and extended version.
 * [EuroSTAR Software Testing Video: Ten Minute Test Plan with James Whittaker](https://www.youtube.com/watch?v=QEu3wmgTLqo)
 
 * [CAST 2014 Keynote - Test Cases are Not Testing: Toward a Performance Culture](https://www.youtube.com/watch?v=JLVP_Z5AoyM)
-
-* [The Art and Science of Questioning, Jessica Ingrassellino](https://www.youtube.com/watch?v=-kB7tLlMPFU)
-
-* [Software Testing Best Practices, Rex Black](http://rbcs-us.com/site/assets/files/2389/software_testing_best_practices.pdf)
-
-* [Test Matrices, Michael Bolton](http://www.developsense.com/testMatrices.html)
-
-## Testing Tools and Techniques
-
-* [What Testing Tools should I Learn, Mark Winteringham, Ministry of Testing](https://dojo.ministryoftesting.com/lessons/what-tools-should-i-learn)
-
-* [Investing in Testing - The Importance of the Right Technique, Rex Black](http://rbcs-us.com/site/assets/files/1358/investingintesting_theimportance.pdf)
 
 ## Exploratory Testing
 
