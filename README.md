@@ -104,7 +104,7 @@ It is _my_ revised and extended version.
 
 * [Agile Testing Mindset and the Role of the Agile Tester, Amir Gharai, Testing Excellence](http://www.testingexcellence.com/agile-testing-mindset-tester-role-agile-team/)
 
-* [Foundation Level Extension Syllabus - Agile Tester] (https://www.istqb.org/downloads/send/5-foundation-level-agile-tester/41-agile-tester-extension-syllabus.html)
+* [Foundation Level Extension Syllabus - Agile Tester](https://www.istqb.org/downloads/send/5-foundation-level-agile-tester/41-agile-tester-extension-syllabus.html)
 
 * [Agile Testing Overview, Elizabeth Hendrickson](http://testobsessed.com/wp-content/uploads/2011/04/AgileTestingOverview.pdf)
 
@@ -127,6 +127,8 @@ It is _my_ revised and extended version.
 ## Test Automation
 
 * [Test University](https://testautomationu.applitools.com/)
+
+* [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 
 * [Page Object Pattern](https://martinfowler.com/bliki/PageObject.html)
 
@@ -158,25 +160,9 @@ It is _my_ revised and extended version.
 
 * [Automation and Accessibility Debunking the Myths by Dylan Barrell](https://www.youtube.com/watch?v=vvQkpYwKwEc)
 
-## Programming
-
-* [Python3 Basics, Harrison Kinsley, Sendex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
-
-* [Introduction to Computer Programming in Python, Fall 2016, MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
-
 * [Java for Testers, Alan Richardson, Evil Tester](https://www.youtube.com/playlist?list=PLrM2ELpRbbu6QVVh74SjN9nLSOutUBbLb)
 
 * [Test Automation Beyond Java 8 with Angie Jones](https://www.youtube.com/watch?v=fapTX6cqzys)
-
-* [Development Tutorials, NewCircle Training](https://www.youtube.com/playlist?list=PLndbWGuLoHeb1Bi_cduGvDA9MwVPfR8Lg)
-
-* [Computation Theory, Shai Simonson, Coderisland](https://www.youtube.com/playlist?list=PL601FC994BDD963E4)
-
-* [CS2: Data Structures and Algorithms, Richard Buckland, University of New South Wales](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
-
-* [Introduction to Artificial Intelligence, Peter Norvig and Sebastian Thrun, Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn)
-
-* [Deep Learning, Nando de Freitas, University of Oxford](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 
 * SQL - todo
 
