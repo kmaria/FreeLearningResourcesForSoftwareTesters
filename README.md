@@ -64,13 +64,13 @@ It is _my_ revised and extended version.
 
 ## Exploratory Testing
 
+* [Rediscover exploratory testing - Ingo Philipp](https://www.youtube.com/watch?v=HftO_-DEHt4)
+
 * [What is Exploratory Testing, James Bach](http://www.satisfice.com/articles/what_is_et.shtml)
 
 * [BBST Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
 
 * [Rigorous Exploratory Testing, Elizabeth Hendrickson](http://testobsessed.com/2006/04/rigorous-exploratory-testing/)
-
-* [Exploratory Testing, gov.uk Service Manual](https://www.gov.uk/service-manual/technology/exploratory-testing)
 
 * [Evolving Understanding About Exploratory Testing, Michael Bolton](http://www.developsense.com/blog/2008/09/evolving-understanding-about/)
 
@@ -85,6 +85,8 @@ It is _my_ revised and extended version.
 * [Session Based Testing, Peter Tennekes](https://vimeo.com/14761201)
 
 * [Session Based Test Management, Jon Bach](http://www.satisfice.com/articles/sbtm.pdf)
+
+* [Teaching and Coaching Exploratory Testing - Maaret Pyhäjärvi](https://www.youtube.com/watch?v=ZWI6MFvxQJk)
 
 ## Testing in Agile
 
