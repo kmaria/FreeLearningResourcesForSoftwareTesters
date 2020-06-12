@@ -28,7 +28,7 @@ Started by @PaulWaltersDev. My revised version.
 
 * [Create Your Tester Portfolio, Issi Hazan & Shmuel Gershon](http://testing.gershon.info/wp-content/uploads/create_your_tester_portfolio_1-1.pdf)
    
-   Crowdsource Testing
+* Crowdsource Testing
    * [uTest](https://www.utest.com/)
    * [Global App Testing](https://testers.testerwork.com/tester-account/sign-up)
    * [test.io](https://test.io/become-a-tester/)
