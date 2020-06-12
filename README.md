@@ -9,7 +9,8 @@ The rules wished to implement -
 2. Content must be informative and not overly "salesy"
 3. Content must be free of charge
 
-Started by @PaulWaltersDev. My revised version.
+Forked from @PaulWaltersDev. 
+It is _my_ revised and extended version.
 
 
 ## Introduction to Testing
@@ -37,11 +38,13 @@ Started by @PaulWaltersDev. My revised version.
 
 * [List of Cognitive Biases, Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
+* [Inattentional Blindness](https://en.wikipedia.org/wiki/Inattentional_blindness)
+
 * [Propositional Logic, Kevin deLaPlante](https://www.youtube.com/watch?v=qV4htTfow-E&list=PL619166130C21EADA)
 
 * [Philosophy for Beginners, Marianne Talbot, University of Oxford CCE](https://www.youtube.com/playlist?list=PLbgBhYAnXCnnzuBmY8O9RCXQZV_y7mbo6)
 
-* [General Philosophy, Peter Millican, University of Oxford](https://www.youtube.com/playlist?list=PL2FEB728FF960FBD9)
+* [Cynefin and Software Testing](https://www.youtube.com/watch?v=_NtFXfN2QVk)
 
 ## Test Design and Execution
 
@@ -138,6 +141,8 @@ Started by @PaulWaltersDev. My revised version.
 * [What's New in Selenium 4 Demo with Diego Molina](https://www.youtube.com/watch?v=2K49vEfusVI)
 
 * [Verify XPath Expression in Chrome](http://stackoverflow.com/questions/22571267/how-to-verify-an-xpath-expression-in-chrome-developers-tool-or-firefoxs-firebug/22571294#22571294)
+
+* [Best Practices for Automated Testing](https://www.youtube.com/watch?v=90Afyo0bI7M)
  
 * [SoapUI Tutorials](https://www.soapui.org/tutorials.html)
 
@@ -151,9 +156,9 @@ Started by @PaulWaltersDev. My revised version.
 
 * [Webdriverio Documentation (Webdriver binding for nodejs)](http://webdriver.io/)
 
-## Programming and Academic Computer Science
+* [Automation and Accessibility Debunking the Myths by Dylan Barrell](https://www.youtube.com/watch?v=vvQkpYwKwEc)
 
-* [Unix Tools, Markus Kuhn, University of Cambridge](http://www.cl.cam.ac.uk/teaching/1415/UnixTools/)
+## Programming
 
 * [Python3 Basics, Harrison Kinsley, Sendex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
@@ -168,8 +173,6 @@ Started by @PaulWaltersDev. My revised version.
 * [Computation Theory, Shai Simonson, Coderisland](https://www.youtube.com/playlist?list=PL601FC994BDD963E4)
 
 * [CS2: Data Structures and Algorithms, Richard Buckland, University of New South Wales](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
-
-* [UHCL Graduate Database Course, Gary Boetticher](https://www.youtube.com/playlist?list=PLvndR40H6vCUSkb88kFdmlSzAzsnQIJBF)
 
 * [Introduction to Artificial Intelligence, Peter Norvig and Sebastian Thrun, Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn)
 
@@ -242,6 +245,8 @@ Started by @PaulWaltersDev. My revised version.
 * [The power of believing that you can improve, Carol Dweck, TedTalks](https://www.youtube.com/watch?v=_X0mgOOSpLU)
 
 ## Books
+
+* [Thinking, Fast and Slow](https://www.bookdepository.com/Thinking-Fast-and-Slow-Daniel-Kahneman)
   
 * [Lessons Learned in Software Testing by Pettichord, Kaner, Bach.](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)
   
