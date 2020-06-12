@@ -150,7 +150,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 ## Programming and Academic Computer Science
 
-* [Into to C on Windows, Handmade Hero](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp)
+* [Test University](https://testautomationu.applitools.com/)
 
 * [Unix Tools, Markus Kuhn, University of Cambridge](http://www.cl.cam.ac.uk/teaching/1415/UnixTools/)
 
@@ -421,10 +421,6 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [How to Test, Mike Talks](https://leanpub.com/howtotest)
 
-## Offbeat, possibly even Bonkers Stuff
-
-* [On Vegan Cooking and What Testers can Learn from it](http://testingrants.blogspot.com.au/2017/02/on-vegan-cooking-and-what-testers-can.html)
-
 ## Online Sessions
 
 * https://weekendtesting.com
@@ -441,6 +437,9 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 * [Android Testing Kata](https://github.com/Karumi/KataSuperHeroesAndroid)
 * [iOS Testing Kata](https://github.com/Karumi/KataSuperHeroesIOS)
+* [Subcutaneous Testing](https://github.com/giamir/subcutaneous-testing)
+* [Frontend Testing on Steroid](https://github.com/NoriSte/frontend-testing-on-steroids)
+* [Pact Example](https://github.com/slawekradzyminski/PactExample)
 
 ## Tester Twitter Handles 
 * (to be added)
