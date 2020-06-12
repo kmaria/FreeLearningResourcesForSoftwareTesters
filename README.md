@@ -24,8 +24,7 @@ Started by @PaulWaltersDev. My revised version.
 
 * [Agile Software Testing with James Bach](https://www.youtube.com/watch?v=SAhJf36_u5U)
 
-* [Black Box Software Testing (BBST)](http://www.testingeducation.org/BBST/)
-  * [Foundations](http://www.testingeducation.org/BBST/foundations/)
+* [Black Box Software Testing (BBST) Foundations](http://www.testingeducation.org/BBST/foundations/)
 
 * [Create Your Tester Portfolio, Issi Hazan & Shmuel Gershon](http://testing.gershon.info/wp-content/uploads/create_your_tester_portfolio_1-1.pdf)
    
