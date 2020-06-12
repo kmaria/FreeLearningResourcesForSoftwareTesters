@@ -21,12 +21,6 @@ It is _my_ revised and extended version.
 
 * [Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU)
 
-* [ISTQB Foundation Level Syllabus](https://www.istqb.org/downloads/send/2-foundation-level-documents/281-istqb-ctfl-syllabus-2018-v3-1.html)
-
-* [Agile Software Testing with James Bach](https://www.youtube.com/watch?v=SAhJf36_u5U)
-
-* [Black Box Software Testing (BBST) Foundations](http://www.testingeducation.org/BBST/foundations/)
-
 * [Create Your Tester Portfolio, Issi Hazan & Shmuel Gershon](http://testing.gershon.info/wp-content/uploads/create_your_tester_portfolio_1-1.pdf)
    
 * Crowdsource Testing
@@ -45,6 +39,12 @@ It is _my_ revised and extended version.
 * [Philosophy for Beginners, Marianne Talbot, University of Oxford CCE](https://www.youtube.com/playlist?list=PLbgBhYAnXCnnzuBmY8O9RCXQZV_y7mbo6)
 
 * [Cynefin and Software Testing](https://www.youtube.com/watch?v=_NtFXfN2QVk)
+
+## Foundations
+
+* [ISTQB Foundation Level Syllabus](https://www.istqb.org/downloads/send/2-foundation-level-documents/281-istqb-ctfl-syllabus-2018-v3-1.html)
+
+* [Black Box Software Testing (BBST) Foundations](http://www.testingeducation.org/BBST/foundations/)
 
 ## Test Design and Execution
 
@@ -91,6 +91,8 @@ It is _my_ revised and extended version.
 * [Agile Manifesto Principles](http://agilemanifesto.org/principles.html)
 
 * [Agile Testing Mindset and the Role of the Agile Tester, Amir Gharai, Testing Excellence](http://www.testingexcellence.com/agile-testing-mindset-tester-role-agile-team/)
+
+* [Agile Software Testing with James Bach](https://www.youtube.com/watch?v=SAhJf36_u5U)
 
 * [Foundation Level Extension Syllabus - Agile Tester](https://www.istqb.org/downloads/send/5-foundation-level-agile-tester/41-agile-tester-extension-syllabus.html)
 
