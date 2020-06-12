@@ -33,10 +33,6 @@ Started by @PaulWaltersDev. My revised version.
    * [Global App Testing](https://testers.testerwork.com/tester-account/sign-up)
    * [test.io](https://test.io/become-a-tester/)
 
-* [Four Hour Tester, Joep Schuurkes and Helena Jeret-Mae](http://www.fourhourtester.net/)
-
-* [Whiteboard Testing Videos](https://www.youtube.com/channel/UC0QZWhi0ojqNte3ey7RD0qQ/videos)
-
 ## The Testing Mindset
 
 * [List of Cognitive Biases, Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
