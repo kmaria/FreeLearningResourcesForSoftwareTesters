@@ -27,6 +27,7 @@ It is _my_ revised and extended version.
    * [uTest](https://www.utest.com/)
    * [Global App Testing](https://testers.testerwork.com/tester-account/sign-up)
    * [test.io](https://test.io/become-a-tester/)
+   * [https://crowdsourcedtesting.com/](https://crowdsourcedtesting.com/)
 
 ## The Testing Mindset
 
