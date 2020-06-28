@@ -15,6 +15,8 @@ It is _my_ revised and extended version.
 
 ## Introduction to Testing
 
+* [Podcast: How to Get a Job in Software Testing](https://www.youtube.com/watch?v=QB8n5RXTV10)
+
 * [Creating Yourself as a Tester Make Your Own Testing Path](https://www.youtube.com/watch?v=bj8isCPgYjg)
 
 * [Software Testing Explained](https://www.youtube.com/watch?v=i5JFcwi-iWI)
