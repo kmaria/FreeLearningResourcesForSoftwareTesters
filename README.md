@@ -1,7 +1,7 @@
 # Free Learning Resources For Software Testers
-An ongoing project to create a set of links to free online learning resources for new and experienced Software Testers.
+An ongoing project to create a set of links to free online learning resources for new and experienced Software Testers and for those who wants to change career and get a job in testing.
 
-Since computer science and IT university departments don't invariably offer dedicated software testing modules and resources are spread among various different providers linked to different methodologies, I created this project to help guide new testers into some sort of useful curriculum and collate some existing web-based resources into lists of links.
+Since computer science and IT university departments don't invariably offer dedicated software testing modules and resources are spread among various different providers linked to different methodologies, this project is created to help guide new testers into some sort of useful curriculum and collate some existing web-based resources into lists of links.
 
 The rules wished to implement -
 
