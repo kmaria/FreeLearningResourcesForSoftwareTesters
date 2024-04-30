@@ -1,20 +1,6 @@
 # Free Learning Resources For Software Testers
 An ongoing project to create a set of links to free online learning resources for new and experienced Software Testers (Click Readme.md to view).
 
-Since computer science and IT university departments don't invariably offer dedicated software testing modules and resources are spread among various different providers linked to different methodologies, I created this project to help guide new testers into some sort of useful curriculum and collate some existing web-based resources into lists of links.
-
-The rules I wish to implement are -
-
-1. Content must be relevant to testers
-2. Content must be informative and not overly "salesy"
-3. Content must be free of charge
-
-(the exceptions to these being books and magazines, of which most have to be paid for, and blogs - some of which are linked to test consultancies and thus may have promotional pieces in them)
-
-This project is very new and the more resources are added the better. I ask the testing community to help by contacting me to offer new content or fork and create a pull request. If you have any suggestions, please let me know. In the meantime, I hope you find the resources below useful.
-
-Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalters2002@yahoo.co.uk
-
 ## Introduction to Testing
 
 * [Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU)
@@ -242,165 +228,6 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [The power of believing that you can improve, Carol Dweck, TedTalks](https://www.youtube.com/watch?v=_X0mgOOSpLU)
 
-
-
-## Podcasts
-
-* [PerfBytes Podcast](http://www.perfbytes.com/)
-
-* [QualiTest's the Testing Show](https://www.qualitestgroup.com/resources/the-testing-show/)
-
-* [MKLTestHead Podcasts](http://www.mkltesthead.com/p/podcasts.html)
-
-* [Hanselminutes Podcast](https://hanselminutes.com/)
-
-* [Let's Talk About Tests, Baby](http://letstalkabouttests.libsyn.com/)
-
-* [The Dojo, Ministry of Testing](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing)
-
-* [TWiT Security Now](https://twit.tv/shows/security-now)
- 
-* [Defensive Security Podcast](https://defensivesecurity.org/category/podcast/)
-
-* [James Bach's Podcast](http://www.satisfice.com/podcasts.shtml)
-
-* [OWASP 24/7 Podcast](https://www.owasp.org/index.php/OWASP_Podcast)
-
-* [Testing in the Pub](http://testinginthepub.co.uk/testinginthepub/)
-
-* [STP Radio](http://www.softwaretestpro.com/category/stp-radio/)
-
-* [Paul's Security Weekly and Hack Naked News](https://securityweekly.com/shows/)
-
-* [Test Talks Podcast](https://joecolantonio.com/testtalks/)
-
-* [Risky Business Security Podcast](https://risky.biz/netcasts/risky-business/)
-
-* [Software Engineering Radio](http://www.se-radio.net/)
-
-* [RBCS Podcast, Rex Black](http://rbcs-us.com/resources/podcast/)
-
-* [Super Testing Bros](https://soundcloud.com/user-813752576-652941214)
-
-* [AB Testing Podcast](http://www.angryweasel.com/ABTesting/)
-
-* [TestCast](http://www.testcast.net/)
-
-* [Test and Code](http://testandcode.com/)
-
-## Blogs
-(In last name/company name alphabetical order to avoid order bias)
-
-* [Nikolay Advolodkin, UltimateQA](https://www.ultimateqa.com/about/)
-
-* [Ilari Henrik Aegerter, Testing Observations](http://www.ilari.com/blog/)
-
-* [Ashfaque Ahmed's Blog](https://ahmedashfaque.wordpress.com/)
-
-* [Dan Ashby's Blog](https://danashby.co.uk/)
-
-* [Avocado Consulting Blog](https://www.avocado.com.au/category/resources/blog/)
-
-* [James Bach's Satisfice Blog](http://www.satisfice.com/blog/)
-
-* [Jon Bach, Tested](https://jonbox.wordpress.com/)
-
-* [Dan Billing, the Test Doctor](https://thetestdoctor.co.uk/)
-
-* [Michael Bolton's Developsense Blog](http://www.developsense.com/blog/)
-
-* [Richard Bradshaw, Friendly Tester](http://www.thefriendlytester.co.uk/)
-
-* [Common Exploits](https://www.commonexploits.com/)
-
-* [Carnal0wnage PenTest Blog](http://carnal0wnage.attackresearch.com/)
-
-* [Anne-Marie Charrett, Maverick Tester](http://mavericktester.com/)
-
-* [Katrina Clokie's Blog](http://katrinatester.blogspot.com.au/)
-
-* [Agile Testing with Lisa Crispin](http://lisacrispin.com/)
-
-* [Joe Colantonio's Blog](https://www.joecolantonio.com/blog/)
-
-* [Sammy Connelly's Blog](https://samanthaconnelly.com/)
-
-* [Danny Dainton's Blog](https://dannydainton.com/)
-
-* [Google Testing Blog](https://testing.googleblog.com/)
-
-* [Janet Gregory, Dragonfire Inc.](http://janetgregory.ca/blog/)
-
-* [Paul Grizzaffi, Responsible Automation](https://responsibleautomation.wordpress.com/)
-
-* [Lee Hawkins, Rocker Tester](https://therockertester.wordpress.com/)
-
-* [Elizabeth Hendrickson, TestObsessed](http://testobsessed.com/)
-
-* [Aaron Hodder, TestKiwi](http://testerkiwi.blogspot.com.au/)
-
-* [Matthew Heusser, XNDEV](http://xndev.com/creative-chaos/)
-
-* [Stephen Janeaway's Blog](http://stephenjanaway.co.uk/stephenjanaway/blog/)
-
-* [Angie Jones's Blog](http://angiejones.tech/)
-
-* [Mohinder Khosla's Blog](http://agileage.blogspot.com)
-
-* [Keith Klein, Quality Remarks](http://qualityremarks.com/)
-
-* [Lyon Testing](https://www.lyontesting.fr/)
-
-* [Michael Larson, MKLTestHead](http://www.mkltesthead.com/)
-
-* [Mike Lyles' Blog](https://mikelyles.wordpress.com/)
-
-* [Claire Mann, Aclairefication](http://blog.aclairefication.com/)
-
-* [Rajesh Mathur, Pragmatic Testing Blog](http://www.dogmatictesting.com/)
-
-* [Offensive Security Blog](https://www.offensive-security.com/blog/)
-
-* [QA Hates You](http://qahatesyou.com/wordpress/)
-
-* [Alan Page's AngryWeasel Blog](http://angryweasel.com/blog/)
-
-* [PenTest Geek](https://www.pentestgeek.com/)
-
-* [Erik Petersen, TestingSpot](http://testingspot.net/)
-
-* [Brett Pettichord](http://www.pettichord.com/)
-
-* [Maaret Pyhäjärvi ](http://visible-quality.blogspot.com.au/)
-
-* [OWASP Blog](https://owasp.blogspot.com.au/)
-
-* [RBCS Blog](http://rbcs-us.com/blog/)
-
-* [Rich Rogers, RichRTesting](https://richrtesting.com/)
-
-* [Huib Shoots, Magnifiant](http://www.huibschoots.nl/wordpress/)
-
-* [SANS Penetration Testing Blog](https://pen-testing.sans.org/blog)
-
-* [Sticky Minds Articles](https://www.stickyminds.com/resources/articles)
-
-* [Mike Talk's Test Sheep Blog](https://medium.com/the-test-sheep)
-
-* [Testing Rants Blog](http://testingrants.blogspot.com.au/)
-
-* [Jonathan Rasmusson, Agile Warrior](https://agilewarrior.wordpress.com/)
-
-* [James Sheasby Thomas](http://rightsaidjames.com/blog/)
-
-## Magazines and Periodicals
-
-* [Testing Trapeze](http://www.testingtrapezemagazine.com/)
-
-* [TEST Magazine](http://www.testingmagazine.com/)
-
-* [PenTest Magazine](https://pentestmag.com/magazines/)
-
 ## Books
   
 * [Lessons Learned in Software Testing by Pettichord, Kaner, Bach.](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)
@@ -425,18 +252,6 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [How to Test, Mike Talks](https://leanpub.com/howtotest)
 
-## Offbeat, possibly even Bonkers Stuff
-
-* [On Vegan Cooking and What Testers can Learn from it](http://testingrants.blogspot.com.au/2017/02/on-vegan-cooking-and-what-testers-can.html)
-
-## Online Sessions
-
-* https://weekendtesting.com
-* Slack Channel : Women in Testing
-* Skype Channel : Software testing 24 * 7
-* Slack Channel : Ministry of Testing
-* Slack Channel : Testers.io
-
 ## Software Testing Conferences
 * [Software Testing Conferences](http://testingconferences.org/)
 
@@ -446,20 +261,6 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Android Testing Kata](https://github.com/Karumi/KataSuperHeroesAndroid)
 * [iOS Testing Kata](https://github.com/Karumi/KataSuperHeroesIOS)
 
-## Tester Twitter Handles 
-* [Parveen Khan](https://twitter.com/Parveen_Khan10)
-* [Testingmind](https://twitter.com/testingmindcon)
-* [Alexander Serebrenik](https://twitter.com/aserebrenik)
-* [Test Automation University](https://twitter.com/TestAutomationU)
-* [TestProject](https://twitter.com/TestProject_io)
-* [The QA Lead](https://twitter.com/TheQALead)
-* [Testim.io](https://twitter.com/testim_io)
-* [Ministry of Testing](https://twitter.com/ministryoftest)
-* [Trending in Testing](https://twitter.com/TrendingTesting)
-* [Software Testing & QA Online Network.](https://twitter.com/testingtechnews)
-* [Software Testing Weekly](https://twitter.com/QANewsletter)
-* [QA Madness](https://twitter.com/QAMadness)
-* [Software Testing Tips & Tricks](https://twitter.com/BugHuntersPro)
 
 
 
